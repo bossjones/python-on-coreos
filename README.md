@@ -9,7 +9,7 @@ INSTALL
 just run the contents of shell-script.
 
 ```
-wget -qO- https://raw.githubusercontent.com/ziozzang/python-on-coreos/master/install-python-on-coreos.sh | bash
+wget -qO- https://raw.githubusercontent.com/jkt628/python-on-coreos/master/install-python-on-coreos.sh | sudo bash
 ```
 
 RUNNING
